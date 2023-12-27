@@ -2,21 +2,27 @@
 This repository contains an efficient implementation of a min-heap data structure in Python.
 
 
-Overview
+Overview:
+
 A min-heap is a binary tree data structure where each parent node is less than or equal to its child nodes. This repository provides a Python implementation of a min-heap with the following key features:
 
-Efficient Operations: The implementation ensures logarithmic time complexity for essential operations such as insertion, extraction of minimum element, and heapifying.
+Efficient Operations: 
+The implementation ensures logarithmic time complexity for essential operations such as insertion, extraction of minimum element, and heapifying.
 
-Flexible Usage: It offers flexibility by allowing elements to be added or removed dynamically while maintaining the min-heap property.
+Flexible Usage: 
+It offers flexibility by allowing elements to be added or removed dynamically while maintaining the min-heap property.
 
-Features
+Features:
 MinHeap class: Provides a class to create and manipulate a min-heap.
 
-Insertion: Efficiently insert elements into the heap while maintaining the min-heap property.
+Insertion: 
+Efficiently insert elements into the heap while maintaining the min-heap property.
 
-Extract Minimum: Retrieve and remove the minimum element from the heap.
+Extract Minimum: 
+Retrieve and remove the minimum element from the heap.
 
-Heapify: Convert a given array of elements into a min-heap.
+Heapify: 
+Convert a given array of elements into a min-heap.
 
 Usage
 Example usage of the MinHeap class:
